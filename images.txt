@@ -1,3 +1,6 @@
+redis:7.4.1
+redis:7.2.6
+redis:6.2.16
 nvidia/cuda:11.2.2-cudnn8-devel-ubi8
 ghcr.io/open-webui/open-webui:cuda
 nginx
