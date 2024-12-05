@@ -1,3 +1,4 @@
+nvidia/cuda:11.2.2-cudnn8-devel-ubi8
 ghcr.io/open-webui/open-webui:cuda
 nginx
 busybox
