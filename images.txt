@@ -1,16 +1,18 @@
-mysql:5.7.44
-mysql:8.4.3
-mysql:latest
-redis:7.4.1
-redis:7.2.6
-redis:6.2.16
-redis:latest
-nvidia/cuda:11.2.2-cudnn8-devel-ubi8
-ghcr.io/open-webui/open-webui:cuda
-nginx
-busybox
+python:3.11.9-slim
+openjdk:17-jdk-slim
+#mysql:5.7.44
+#mysql:8.4.3
+#mysql:latest
+#redis:7.4.1
+#redis:7.2.6
+#redis:6.2.16
+#redis:latest
+#nvidia/cuda:11.2.2-cudnn8-devel-ubi8
+#ghcr.io/open-webui/open-webui:cuda
+#nginx
+#busybox
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
