@@ -1,5 +1,6 @@
-python:3.11.9-slim
-openjdk:17-jdk-slim
+moby/buildkit:buildx-stable-1
+#python:3.11.9-slim
+#openjdk:17-jdk-slim
 #mysql:5.7.44
 #mysql:8.4.3
 #mysql:latest
