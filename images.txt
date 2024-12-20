@@ -1,4 +1,6 @@
 #nginx
+
+#registry.cn-hangzhou.aliyuncs.com/sxxpqp
 ghcr.io/home-assistant/home-assistant:stable
 #moby/buildkit:buildx-stable-1
 #python:3.11.9-slim
