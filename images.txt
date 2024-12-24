@@ -1,5 +1,6 @@
 #nginx
-ghcr.io/haishanh/yacd:master
+#ghcr.io/haishanh/yacd:master
+hexiauto/cy_auto:tagname 
 #ghcr.io/open-webui/open-webui:ollama
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
 ghcr.io/home-assistant/home-assistant:stable
