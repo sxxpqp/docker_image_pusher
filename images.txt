@@ -1,6 +1,8 @@
 #nginx
 #ghcr.io/haishanh/yacd:master
-hexiauto/cy_auto:tagname 
+hexiauto/cy_auto:latest-melodic-cuda
+hexiauto/cy_auto:cy_auto
+hexiauto/cy_auto:Autonomous_Driving
 #ghcr.io/open-webui/open-webui:ollama
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
 ghcr.io/home-assistant/home-assistant:stable
