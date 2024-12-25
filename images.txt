@@ -1,4 +1,8 @@
 #nginx
+docker.io/bitnami/mysql:5.7
+docker.io/bitnami/mysql:8.0
+docker.io/bitnami/mysql:8.1
+docker.io/bitnami/mysql:8.2
 #ghcr.io/haishanh/yacd:master
 #hexiauto/cy_auto:latest-melodic-cuda
 #hexiauto/cy_auto:cy_auto
