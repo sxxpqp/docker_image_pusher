@@ -1,10 +1,11 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
-xhofe/alist:latest
-dreamacro/clash-premium
-ghcr.io/haishanh/yacd:master
-minio
-lscr.io/linuxserver/qbittorrent:latest
-lscr.io/linuxserver/syncthing:latest
+docker.io/koryking/1panel:latest
+#xhofe/alist:latest
+#dreamacro/clash-premium
+#ghcr.io/haishanh/yacd:master
+#minio
+#lscr.io/linuxserver/qbittorrent:latest
+#lscr.io/linuxserver/syncthing:latest
 #nginx
 #docker.io/bitnami/mysql:5.7
 #docker.io/bitnami/mysql:8.0
