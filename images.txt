@@ -1,6 +1,8 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
 #docker.io/koryking/1panel:latest
-nvidia/cuda:11.0.3-base
+nvidia/cuda:12.6.3-cudnn-devel-ubuntu20.04
+nvidia/cuda:12.6.3-cudnn-devel-ubi8
+#nvidia/cuda:11.0.3-base
 #xhofe/alist:latest
 #dreamacro/clash-premium
 #ghcr.io/haishanh/yacd:master
