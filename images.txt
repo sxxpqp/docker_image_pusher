@@ -1,9 +1,10 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
-docker.io/koryking/1panel:latest
+#docker.io/koryking/1panel:latest
+nvidia/cuda:11.0.3-base
 #xhofe/alist:latest
 #dreamacro/clash-premium
 #ghcr.io/haishanh/yacd:master
-#minio
+#minio/minio
 #lscr.io/linuxserver/qbittorrent:latest
 #lscr.io/linuxserver/syncthing:latest
 #nginx
