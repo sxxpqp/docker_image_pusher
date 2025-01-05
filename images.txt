@@ -1,5 +1,8 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
-jellyfin/jellyfin:2024123005
+#jellyfin/jellyfin:2024123005
+tensorflow/tensorflow:2.18.0-gpu
+tensorflow/tensorflow:2.18.0
+gdy666/lucky:2.14.0
 #jxxghp/moviepilot-v2:latest
 #docker.io/koryking/1panel:latest
 #nvidia/cuda:12.6.3-cudnn-devel-ubuntu20.04
