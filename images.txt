@@ -231,8 +231,8 @@
 --platform=linux/arm64 kubesphere/kubectl:v1.20.0
 --platform=linux/arm64 kubesphere/kubefed:v0.8.1
 --platform=linux/arm64 kubesphere/tower:v0.2.0
---platform=linux/arm64 minio/minio:RELEASE.2019-08-07T01-59-21Z
---platform=linux/arm64 minio/mc:RELEASE.2019-08-07T23-14-43Z
+# --platform=linux/arm64 minio/minio:RELEASE.2019-08-07T01-59-21Z
+# --platform=linux/arm64 minio/mc:RELEASE.2019-08-07T23-14-43Z
 --platform=linux/arm64 csiplugin/snapshot-controller:v4.0.0
 --platform=linux/arm64 kubesphere/nginx-ingress-controller:v1.1.0
 --platform=linux/arm64 mirrorgooglecontainers/defaultbackend-amd64:1.4
