@@ -237,6 +237,7 @@
 # --platform=linux/arm64 kubesphere/nginx-ingress-controller:v1.1.0
 ## --platform=linux/arm64 mirrorgooglecontainers/defaultbackend-arm:1.4
 --platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/qczrzl/defaultbackend-arm64:1.4
+--platform=linux/arm64 ghcr.io/kube-vip/kube-vip:v0.5.0
 # --platform=linux/arm64 kubesphere/metrics-server:v0.4.2-arm64
 # --platform=linux/arm64 redis:5.0.14-alpine
 # --platform=linux/arm64 haproxy:2.0.25-alpine
