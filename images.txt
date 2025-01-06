@@ -82,7 +82,7 @@ hanxi/xiaomusic
 --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller:v4.0.0
 --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-rbac-proxy:v0.8.0
 --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/coredns:1.8.0
---platform=linux/arm64 kubesphere/log-sidecar-injector:1.1
+--platform=linux/arm64 kubesphere/log-sidecar-injector:v1.2
 --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache:1.15.12
 --platform=linux/arm64 mc:RELEASE.2019-08-07T23-14-43Z
 --platform=linux/arm64 minio:RELEASE.2019-08-07T01-59-21Z
