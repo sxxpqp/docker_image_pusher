@@ -1,4 +1,5 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
+hanxi/xiaomusic
 #jellyfin/jellyfin:2024123005
 #tensorflow/tensorflow:2.18.0-gpu
 #tensorflow/tensorflow:2.18.0
@@ -22,9 +23,9 @@
 #ghcr.io/haishanh/yacd:master
 #hexiauto/cy_auto:latest-melodic-cuda
 #hexiauto/cy_auto:cy_auto
-hexiauto/cy_auto:Autonomous_Driving
+#hexiauto/cy_auto:Autonomous_Driving
 #ghcr.io/open-webui/open-webui:ollama
-ghcr.io/home-assistant/home-assistant:stable
+#ghcr.io/home-assistant/home-assistant:stable
 #moby/buildkit:buildx-stable-1
 #python:3.11.9-slim
 #openjdk:17-jdk-slim
@@ -45,49 +46,49 @@ ghcr.io/home-assistant/home-assistant:stable
 #支持指定架构
 #--platform=linux/amd64,linux/arm64
 #--platform=linux/arm64 xiaoyaliu/alist
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-console:v3.3.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager:v3.3.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer:v3.3.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-apiserver:v3.3.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/openpitrix-jobs:v3.3.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/alpine:3.14
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-apiserver:v1.22.12
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-scheduler:v1.22.12
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-proxy:v1.22.12
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controller-manager:v1.22.12
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv:3.3.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils:3.3.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controllers:v3.23.2
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/cni:v3.23.2
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/pod2daemon-flexvol:v3.23.2
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/node:v3.23.2
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-state-metrics:v2.5.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/fluent-bit:v1.8.11
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-config-reloader:v0.55.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-operator:v0.55.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/thanos:v0.25.2
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus:v2.34.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/fluentbit-operator:v0.13.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/node-exporter:v1.3.1
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl:v1.22.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/notification-manager:v1.4.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/notification-tenant-sidecar:v3.2.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/notification-manager-operator:v1.4.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/alertmanager:v0.23.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-rbac-proxy:v0.11.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/docker:19.03
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/pause:3.5
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/configmap-reload:v0.5.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller:v4.0.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-rbac-proxy:v0.8.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/coredns:1.8.0
-# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/log-sidecar-injector:1.1
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache:1.15.12
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/mc:RELEASE.2019-08-07T23-14-43Z
---platform=linux/arm64 minio:RELEASE.2019-08-07T01-59-21Z
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/defaultbackend-amd64:1.4
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/redis:5.0.14-alpine
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy:2.3
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/opensearch:2.6.0
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/busybox:latest
---platform=linux/arm64 kubesphere/fluent-bit:v2.0.6
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-console:v3.3.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager:v3.3.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer:v3.3.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/ks-apiserver:v3.3.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/openpitrix-jobs:v3.3.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/alpine:3.14
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-apiserver:v1.22.12
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-scheduler:v1.22.12
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-proxy:v1.22.12
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controller-manager:v1.22.12
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv:3.3.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils:3.3.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controllers:v3.23.2
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/cni:v3.23.2
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/pod2daemon-flexvol:v3.23.2
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/node:v3.23.2
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-state-metrics:v2.5.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/fluent-bit:v1.8.11
+--platform=linux/amd64,linux/arm64registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-config-reloader:v0.55.1
+--platform=linux/amd64,linux/arm64registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-operator:v0.55.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/thanos:v0.25.2
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus:v2.34.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/fluentbit-operator:v0.13.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/node-exporter:v1.3.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl:v1.22.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/notification-manager:v1.4.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/notification-tenant-sidecar:v3.2.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/notification-manager-operator:v1.4.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/alertmanager:v0.23.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-rbac-proxy:v0.11.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/docker:19.03
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/pause:3.5
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/configmap-reload:v0.5.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller:v4.0.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-rbac-proxy:v0.8.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/coredns:1.8.0
+--platform=linux/amd64,linux/arm64 kubesphere/log-sidecar-injector:1.1
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache:1.15.12
+--platform=linux/amd64,linux/arm64 mc:RELEASE.2019-08-07T23-14-43Z
+--platform=linux/amd64,linux/arm64 minio:RELEASE.2019-08-07T01-59-21Z
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/defaultbackend-amd64:1.4
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/redis:5.0.14-alpine
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy:2.3
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/opensearch:2.6.0
+--platform=linux/amd64,linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/busybox:latest
+--platform=linux/amd64,linux/arm64 kubesphere/fluent-bit:v2.0.6
