@@ -82,10 +82,10 @@
 # --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller:v4.0.0
 # --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/kube-rbac-proxy:v0.8.0
 # --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/coredns:1.8.0
---platform=linux/arm64 kubesphere/log-sidecar-injector:v1.2.0
---platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache:1.15.12
+# --platform=linux/arm64 kubesphere/log-sidecar-injector:v1.2.0
+# --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache:1.15.12
 --platform=linux/arm64 minio/mc:RELEASE.2020-11-25T23-04-07Z
---platform=linux/arm64 minio/minio:RELEASE.2019-08-07T01-59-21Z
+--platform=linux/arm64 minio/minio:RELEASE.2020-11-25T22-36-25Z-arm64
 --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/defaultbackend-amd64:1.4
 --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/redis:5.0.14-alpine
 --platform=linux/arm64 registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy:2.3
