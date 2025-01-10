@@ -1,5 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
-docker.elastic.co/elasticsearch/elasticsearch:7.5.2
+stilleshan/frpc
+#docker.elastic.co/elasticsearch/elasticsearch:7.5.2
 #minio/minio:RELEASE.2020-04-22T00-11-12Z
 #minio/minio:RELEASE.2020-04-15T19-42-18Z
 # hanxi/xiaomusic
