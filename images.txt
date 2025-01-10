@@ -1,6 +1,7 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp
-minio/minio:RELEASE.2020-04-22T00-11-12Z
-minio/minio:RELEASE.2020-04-15T19-42-18Z
+docker.elastic.co/elasticsearch/elasticsearch:7.5.2
+#minio/minio:RELEASE.2020-04-22T00-11-12Z
+#minio/minio:RELEASE.2020-04-15T19-42-18Z
 # hanxi/xiaomusic
 #jellyfin/jellyfin:2024123005
 #tensorflow/tensorflow:2.18.0-gpu
