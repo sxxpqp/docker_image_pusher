@@ -2,9 +2,10 @@
 #stilleshan/frpc
 #stilleshan/frps
 #bitnami/mysql:5.7
-bitnami/elasticsearch:8
-bitnami/redis:7.4
-bitnami/mongodb:8.0
+mongo
+#bitnami/elasticsearch:8
+#bitnami/redis:7.4
+#bitnami/mongodb:8.0
 #xhofe/alist:latest
 #docker.elastic.co/elasticsearch/elasticsearch:7.5.2
 #minio/minio:RELEASE.2020-04-22T00-11-12Z
