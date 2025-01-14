@@ -2,7 +2,8 @@
 #stilleshan/frpc
 #stilleshan/frps
 #bitnami/mysql:5.7
-mongo
+#mongo
+mongo-express
 #bitnami/elasticsearch:8
 #bitnami/redis:7.4
 #bitnami/mongodb:8.0
