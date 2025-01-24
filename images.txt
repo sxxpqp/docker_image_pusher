@@ -3,7 +3,8 @@
 #stilleshan/frps
 #bitnami/mysql:5.7
 #mongo
-funcman/115pc
+jeessy/ddns-go
+#funcman/115pc
 #mongo-express
 #bitnami/elasticsearch:8
 #bitnami/redis:7.4
