@@ -2,7 +2,8 @@
 #stilleshan/frpc
 #stilleshan/frps
 #bitnami/mysql:5.7
-nevinee/qbittorrent:latest
+php:8.4.3-fpm-alpine
+#nevinee/qbittorrent:latest
 #flowiseai/flowise
 #mongo
 #grafana/grafana
