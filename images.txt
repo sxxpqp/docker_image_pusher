@@ -2,7 +2,8 @@
 #stilleshan/frpc
 #stilleshan/frps
 #bitnami/mysql:5.7
-flowiseai/flowise
+nevinee/qbittorrent:latest
+#flowiseai/flowise
 #mongo
 #grafana/grafana
 #jeessy/ddns-go
