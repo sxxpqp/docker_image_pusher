@@ -3,7 +3,32 @@
 #stilleshan/frps
 #bitnami/mysql:5.7
 #php:8.4.3-fpm-alpine
-public.ecr.aws/skyvern/skyvern:latest
+#public.ecr.aws/skyvern/skyvern:latest
+ langgenius/dify-api
+ langgenius/dify-web
+ postgres
+ redis
+ langgenius/dify-sandbox
+ ubuntu/squid
+ certbot/certbot
+ nginx
+ pingcap/tidb
+ semitechnologies/weaviate
+ langgenius/qdrant
+ pgvector/pgvector
+ tensorchord/pgvecto-rs
+ ghcr.io/chroma-core/chroma
+ quay.io/oceanbase/oceanbase-ce
+ container-registry.oracle.com/database/free
+ quay.io/coreos/etcd
+ minio/minio
+ milvusdb/milvus
+ opensearchproject/opensearch
+ opensearchproject/opensearch-dashboards
+ myscale/myscaledb
+ docker.elastic.co/elasticsearch/elasticsearch
+ docker.elastic.co/kibana/kibana
+ downloads.unstructured.io/unstructured-io/unstructured-api
 #nevinee/qbittorrent:latest
 #flowiseai/flowise
 #mongo
