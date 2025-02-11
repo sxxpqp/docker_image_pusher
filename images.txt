@@ -4,31 +4,11 @@
 #bitnami/mysql:5.7
 #php:8.4.3-fpm-alpine
 #public.ecr.aws/skyvern/skyvern:latest
- langgenius/dify-api
- langgenius/dify-web
- postgres
- redis
- langgenius/dify-sandbox
- ubuntu/squid
- certbot/certbot
- nginx
- pingcap/tidb
- semitechnologies/weaviate
- langgenius/qdrant
- pgvector/pgvector
- tensorchord/pgvecto-rs
- ghcr.io/chroma-core/chroma
- quay.io/oceanbase/oceanbase-ce
- container-registry.oracle.com/database/free
- quay.io/coreos/etcd
- minio/minio
- milvusdb/milvus
- opensearchproject/opensearch
- opensearchproject/opensearch-dashboards
- myscale/myscaledb
- docker.elastic.co/elasticsearch/elasticsearch
- docker.elastic.co/kibana/kibana
- downloads.unstructured.io/unstructured-io/unstructured-api
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+mysql:8.0.39
+infiniflow/ragflow:v0.16.0-slim
+valkey/valkey:8
 #nevinee/qbittorrent:latest
 #flowiseai/flowise
 #mongo
