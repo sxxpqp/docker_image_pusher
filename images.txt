@@ -2,7 +2,8 @@
 #stilleshan/frpc
 #stilleshan/frps
 #bitnami/mysql:5.7
-php:8.4.3-fpm-alpine
+#php:8.4.3-fpm-alpine
+public.ecr.aws/skyvern/skyvern:latest
 #nevinee/qbittorrent:latest
 #flowiseai/flowise
 #mongo
