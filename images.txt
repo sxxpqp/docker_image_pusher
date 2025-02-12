@@ -3,7 +3,8 @@
 #stilleshan/frps
 #bitnami/mysql:5.7
 #php:8.4.3-fpm-alpine
-ubuntu
+#ubuntu
+nvidia/cuda:11.0-base
 #infiniflow/ragflow:v0.16.0
 #public.ecr.aws/skyvern/skyvern:latest
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
