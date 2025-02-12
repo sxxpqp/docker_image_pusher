@@ -4,7 +4,16 @@
 #bitnami/mysql:5.7
 #php:8.4.3-fpm-alpine
 #ubuntu
-nvidia/cuda:11.0-base
+langgenius/dify-api:0.15.3
+postgres:15-alpine
+nginx:latest
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-web:0.15.3
+langgenius/dify-api:0.15.3
+#nvidia/cuda:11.0-base
 #infiniflow/ragflow:v0.16.0
 #public.ecr.aws/skyvern/skyvern:latest
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
