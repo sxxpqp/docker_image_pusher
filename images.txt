@@ -1,5 +1,5 @@
 #registry.cn-hangzhou.aliyuncs.com/sxxpqp 
---platform=linux/arm64 swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:v0.16.0
+--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #stilleshan/frps
 #bitnami/mysql:5.7
