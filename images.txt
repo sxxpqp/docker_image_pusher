@@ -1,20 +1,21 @@
-#registry.cn-hangzhou.aliyuncs.com/sxxpqp
-#stilleshan/frpc
+#registry.cn-hangzhou.aliyuncs.com/sxxpqp 
+--platform=linux/arm64 swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:v0.16.0
+#--platform=linux/arm64 stilleshan/frpc
 #stilleshan/frps
 #bitnami/mysql:5.7
 #php:8.4.3-fpm-alpine
 #ubuntu
-apache/rocketmq:5.2.0
-elasticsearch:8.13.0
-kibana:8.13.0
-mysql:8.4.1
-nacos/nacos-server:v2.3.2
-apache/rocketmq:5.2.0
-redis:latest
-apacherocketmq/rocketmq-dashboard:latest
-seataio/seata-server:2.0.0
-javajianghu/sentinel-dashboard:v1.8.8
-xuxueli/xxl-job-admin:2.4.1
+#apache/rocketmq:5.2.0
+#elasticsearch:8.13.0
+#kibana:8.13.0
+#mysql:8.4.1
+#nacos/nacos-server:v2.3.2
+#apache/rocketmq:5.2.0
+#redis:latest
+#apacherocketmq/rocketmq-dashboard:latest
+#seataio/seata-server:2.0.0
+#javajianghu/sentinel-dashboard:v1.8.8
+#xuxueli/xxl-job-admin:2.4.1
 #nvidia/cuda:11.0-base
 #infiniflow/ragflow:v0.16.0
 #public.ecr.aws/skyvern/skyvern:latest
