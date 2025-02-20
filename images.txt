@@ -2,7 +2,7 @@
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
-infiniflow/infinity
+infiniflow/infinity:nightly
 #stilleshan/frps
 #bitnami/mysql:5.7
 #php:8.4.3-fpm-alpine
