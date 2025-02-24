@@ -3,13 +3,14 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #dustynv/nano_llm:r36.4.0
-#lobe-chat
-casbin/casdoor
-lobehub/lobe-chat-database
-minio/minio
-alpine
-pgvector/pgvector:pg17
-#
+nriver/trilium-cn
+###lobe-chat
+#casbin/casdoor
+#lobehub/lobe-chat-database
+#minio/minio
+#alpine
+#pgvector/pgvector:pg17
+###
 #syncthing/syncthing
 #infiniflow/infinity:v0.6.0-dev3
 #stilleshan/frps
