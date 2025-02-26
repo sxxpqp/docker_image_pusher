@@ -3,7 +3,8 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #dustynv/nano_llm:r36.4.0
-python:3.9-slim
+#python:3.9-slim
+hello-world
 #nriver/trilium-cn
 ###lobe-chat
 #casbin/casdoor
