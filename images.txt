@@ -3,7 +3,8 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #dustynv/nano_llm:r36.4.0
---platform=linux/arm64  postgres:14-alpine3.21
+#--platform=linux/arm64  postgres:14-alpine3.21
+postgres
 #python:3.9-slim
 #hello-world
 #nriver/trilium-cn
