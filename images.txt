@@ -4,7 +4,21 @@
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #dustynv/nano_llm:r36.4.0
 #--platform=linux/arm64  postgres:14-alpine3.21
-postgres
+
+
+###
+langgenius/dify-api:1.0.0
+postgres:15-alpine
+nginx:latest
+langgenius/dify-plugin-daemon:0.0.3-local
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-web:1.0.0
+langgenius/dify-api:1.0.0
+###
+#postgres
 #python:3.9-slim
 #hello-world
 #nriver/trilium-cn
