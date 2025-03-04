@@ -4,8 +4,8 @@
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #dustynv/nano_llm:r36.4.0
 #--platform=linux/arm64  postgres:14-alpine3.21
-
-nipreps/fmriprep:24.0.0
+infiniflow/ragflow:v0.17.0
+#nipreps/fmriprep:24.0.0
 ###
 langgenius/dify-api:1.0.0
 postgres:15-alpine
