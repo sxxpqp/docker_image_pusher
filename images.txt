@@ -8,6 +8,22 @@
 #infiniflow/ragflow:v0.17.0
 #nipreps/fmriprep:24.0.0
 
+# amd  dify 1.0.1
+
+langgenius/dify-api:1.0.1
+postgres:15-alpine
+nginx:latest
+langgenius/dify-plugin-daemon:0.0.4-local
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-web:1.0.1
+langgenius/dify-api:1.0.1
+
+
+
+
 # ragflow v0.17.1
 infiniflow/ragflow:v0.17.1
 ### 1.0.0 dify
