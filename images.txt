@@ -38,7 +38,7 @@ ghcr.io/bigcode-project/evaluation-harness-multiple
 
 
 # ragflow v0.17.1
-infiniflow/ragflow:v0.17.1
+#infiniflow/ragflow:v0.17.1
 ### 1.0.0 dify
 #langgenius/dify-api:1.0.0
 #postgres:15-alpine
@@ -53,15 +53,14 @@ infiniflow/ragflow:v0.17.1
 ###
 
 ###arm 1.0.0 dify
---platform=linux/arm64 langgenius/dify-api:1.0.0
---platform=linux/arm64 postgres:15-alpine
---platform=linux/arm64 nginx:latest
---platform=linux/arm64 langgenius/dify-plugin-daemon:0.0.3-local
---platform=linux/arm64 redis:6-alpine
---platform=linux/arm64 langgenius/dify-sandbox:0.2.10
---platform=linux/arm64 ubuntu/squid:latest
---platform=linux/arm64 semitechnologies/weaviate:1.19.0
---platform=linux/arm64 langgenius/dify-web:1.0.0
+#--platform=linux/arm64 langgenius/dify-api:1.0.0
+#--platform=linux/arm64 postgres:15-alpine
+#--platform=linux/arm64 nginx:latest
+#--platform=linux/arm64 langgenius/dify-plugin-daemon:0.0.3-local
+#--platform=linux/arm64 langgenius/dify-sandbox:0.2.10
+#--platform=linux/arm64 ubuntu/squid:latest
+#--platform=linux/arm64 semitechnologies/weaviate:1.19.0
+#--platform=linux/arm64 langgenius/dify-web:1.0.0
 #langgenius/dify-api:1.0.0
 ###
 #postgres
