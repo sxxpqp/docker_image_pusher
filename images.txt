@@ -8,18 +8,18 @@
 #infiniflow/ragflow:v0.17.0
 #nipreps/fmriprep:24.0.0
 
-
+ghcr.io/bigcode-project/evaluation-harness-multiple
 # ard  dify 1.0.1
 
---platform=linux/arm64  langgenius/dify-api:1.0.1
---platform=linux/arm64  postgres:15-alpine
---platform=linux/arm64  nginx:latest
---platform=linux/arm64  langgenius/dify-plugin-daemon:0.0.4-local
---platform=linux/arm64 redis:6-alpine
---platform=linux/arm64  langgenius/dify-sandbox:0.2.10
---platform=linux/arm64  ubuntu/squid:latest
---platform=linux/arm64 semitechnologies/weaviate:1.19.0
---platform=linux/arm64  langgenius/dify-web:1.0.1
+#--platform=linux/arm64  langgenius/dify-api:1.0.1
+#--platform=linux/arm64  postgres:15-alpine
+#--platform=linux/arm64  nginx:latest
+#--platform=linux/arm64  langgenius/dify-plugin-daemon:0.0.4-local
+#--platform=linux/arm64 redis:6-alpine
+#--platform=linux/arm64  langgenius/dify-sandbox:0.2.10
+#--platform=linux/arm64  ubuntu/squid:latest
+#--platform=linux/arm64 semitechnologies/weaviate:1.19.0
+#--platform=linux/arm64  langgenius/dify-web:1.0.1
 
 # amd  dify 1.0.1
 
