@@ -8,6 +8,11 @@
 #infiniflow/ragflow:v0.17.0
 #nipreps/fmriprep:24.0.0
 
+
+# https://heygem.ai/
+guiji2025/fish-speech-ziming
+guiji2025/fun-asr
+guiji2025/heygem.ai
 #ghcr.io/bigcode-project/evaluation-harness-multiple
 # ard  dify 1.0.1
 
