@@ -10,13 +10,26 @@
 
 
 ## nvidia
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+#nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 
 # https://heygem.ai/
 #guiji2025/fish-speech-ziming
 #guiji2025/fun-asr
 #guiji2025/heygem.ai
 #ghcr.io/bigcode-project/evaluation-harness-multiple
+
+
+## amd dify 1.0.1
+langgenius/dify-api:1.1.1
+postgres:15-alpine
+nginx:latest
+langgenius/dify-plugin-daemon:0.0.6-local
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-web:1.1.1
+langgenius/dify-api:1.1.1
 # ard  dify 1.0.1
 
 #--platform=linux/arm64  langgenius/dify-api:1.0.1
