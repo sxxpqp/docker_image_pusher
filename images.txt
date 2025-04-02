@@ -8,10 +8,13 @@
 #infiniflow/ragflow:v0.17.0
 #nipreps/fmriprep:24.0.0
 
+guiji2025/fish-speech-ziming
+guiji2025/heygem.ai
+guiji2025/fun-asr
 
 ## nvidia
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
-nvcr.io/nvidia/pytorch:24.03-py3
+#nvcr.io/nvidia/pytorch:24.03-py3
 # https://heygem.ai/
 #guiji2025/fish-speech-ziming
 #guiji2025/fun-asr
