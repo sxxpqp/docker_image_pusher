@@ -8,8 +8,9 @@
 #infiniflow/ragflow:v0.17.0
 #nipreps/fmriprep:24.0.0
 
+prosyslab/tracer-artifacts:latest
 #### vllm
-vllm/vllm-openai:v0.8.2
+#vllm/vllm-openai:v0.8.2
 ###heygem.ai
 #guiji2025/fish-speech-ziming
 #guiji2025/heygem.ai
