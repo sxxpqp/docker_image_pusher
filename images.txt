@@ -7,8 +7,8 @@
 #--platform=linux/arm64  postgres:14-alpine3.21
 #infiniflow/ragflow:v0.17.0
 #nipreps/fmriprep:24.0.0
-
-prosyslab/tracer-artifacts:latest
+chenhw2/aliyun-ddns-cli:latest
+#prosyslab/tracer-artifacts:latest
 #### vllm
 #vllm/vllm-openai:v0.8.2
 ###heygem.ai
