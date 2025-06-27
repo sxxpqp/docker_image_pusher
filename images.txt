@@ -15,7 +15,7 @@
 #guiji2025/fish-speech-ziming
 #guiji2025/heygem.ai
 #guiji2025/fun-asr
-timeloopaccelergy/timeloop-accelergy-pytorch:latest-amd64
+#timeloopaccelergy/timeloop-accelergy-pytorch:latest-amd64
 ## nvidia
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 #nvcr.io/nvidia/pytorch:24.03-py3
@@ -24,7 +24,7 @@ timeloopaccelergy/timeloop-accelergy-pytorch:latest-amd64
 #guiji2025/fun-asr
 #guiji2025/heygem.ai
 #ghcr.io/bigcode-project/evaluation-harness-multiple
-
+ninganme/deepprep:24.1.0
 ## amd dify 1.1.2
 #langgenius/dify-api:1.1.2
 #postgres:15-alpine
