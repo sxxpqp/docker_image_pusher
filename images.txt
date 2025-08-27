@@ -3,7 +3,7 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #dustynv/nano_llm:r36.4.0
-ghcr.io/czlonkowski/n8n-mcp
+#ghcr.io/czlonkowski/n8n-mcp
 #python:3.8.12-slim
 #--platform=linux/arm64  postgres:14-alpine3.21
 #infiniflow/ragflow:v0.17.0
@@ -13,9 +13,9 @@ ghcr.io/czlonkowski/n8n-mcp
 #### vllm
 #vllm/vllm-openai:v0.8.2
 ###heygem.ai
-#guiji2025/fish-speech-ziming
-#guiji2025/heygem.ai
-#guiji2025/fun-asr
+guiji2025/fish-speech-ziming
+guiji2025/heygem.ai
+guiji2025/fun-asr
 #timeloopaccelergy/timeloop-accelergy-pytorch:latest-amd64
 ## nvidia
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
