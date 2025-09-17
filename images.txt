@@ -13,9 +13,9 @@
 #### vllm
 #vllm/vllm-openai:v0.8.2
 ###heygem.ai
-guiji2025/fish-speech-ziming
-guiji2025/heygem.ai
-guiji2025/fun-asr
+#guiji2025/fish-speech-ziming
+#guiji2025/heygem.ai
+#guiji2025/fun-asr
 #timeloopaccelergy/timeloop-accelergy-pytorch:latest-amd64
 ## nvidia
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
@@ -109,10 +109,10 @@ guiji2025/fun-asr
 #hello-world
 #nriver/trilium-cn
 ###lobe-chat
-#casbin/casdoor
-#lobehub/lobe-chat-database
+casbin/casdoor
+lobehub/lobe-chat-database
 #minio/minio
-#alpine
+alpine
 #pgvector/pgvector:pg17
 ###
 #syncthing/syncthing
