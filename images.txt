@@ -11,7 +11,7 @@
 #chenhw2/aliyun-ddns-cli:latest
 #prosyslab/tracer-artifacts:latest
 #### vllm
-#vllm/vllm-openai:v0.8.2
+vllm/vllm-openai
 ###heygem.ai
 #guiji2025/fish-speech-ziming
 #guiji2025/heygem.ai
