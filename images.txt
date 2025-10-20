@@ -2,6 +2,9 @@
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
+
+
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #dustynv/nano_llm:r36.4.0
 #ghcr.io/czlonkowski/n8n-mcp
 #python:3.8.12-slim
@@ -109,10 +112,10 @@ vllm/vllm-openai
 #hello-world
 #nriver/trilium-cn
 ###lobe-chat
-casbin/casdoor
-lobehub/lobe-chat-database
+#casbin/casdoor
+#lobehub/lobe-chat-database
 #minio/minio
-alpine
+#alpine
 #pgvector/pgvector:pg17
 ###
 #syncthing/syncthing
