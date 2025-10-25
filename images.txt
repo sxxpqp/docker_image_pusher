@@ -3,12 +3,12 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 
-
+nvcr.io/nvidia/cuda:12.7.0-runtime-ubuntu20.04
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-ccr.ccs.tencentyun.com/dhuar/postgres:17
-ccr.ccs.tencentyun.com/dhuar/grafana:latest
-ccr.ccs.tencentyun.com/dhuar/eclipse-mosquitto:2
-ccr.ccs.tencentyun.com/dhuar/teslamate:latest
+#ccr.ccs.tencentyun.com/dhuar/postgres:17
+#ccr.ccs.tencentyun.com/dhuar/grafana:latest
+#ccr.ccs.tencentyun.com/dhuar/eclipse-mosquitto:2
+#ccr.ccs.tencentyun.com/dhuar/teslamate:latest
 #dustynv/nano_llm:r36.4.0
 #ghcr.io/czlonkowski/n8n-mcp
 #python:3.8.12-slim
