@@ -2,7 +2,14 @@
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
-pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
+
+#csi-s3
+cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-provisioner:v2.1.0
+cr.yandex/crp9ftr22d26age3hulg/csi-s3:0.43.2
+cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-node-driver-registrar:v1.2.0
+cr.yandex/crp9ftr22d26age3hulg/csi-s3:0.43.2
+
+#pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
 #nvcr.io/nvidia/pytorch:25.09-py3
 #docker.io/calico/cni:v3.25.0
 #docker.io/calico/node:v3.25.0
