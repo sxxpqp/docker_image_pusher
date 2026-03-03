@@ -2,7 +2,7 @@
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
-
+gcr.io/kaniko-project/executor:debug
 #csi-s3
 #cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-provisioner:v2.1.0
 #cr.yandex/crp9ftr22d26age3hulg/csi-s3:0.43.2
