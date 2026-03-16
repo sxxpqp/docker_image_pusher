@@ -4,10 +4,12 @@
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #gcr.io/kaniko-project/executor:debug
 #nginx:alpine
-
-jenkins/inbound-agent:latest
-maven:3.8.6-openjdk-11
-maven:3.9.6-eclipse-temurin-17
+quay.io/jetstack/cert-manager-cainjector:v1.16.1
+quay.io/jetstack/cert-manager-controller:v1.16.1
+quay.io/jetstack/cert-manager-webhook:v1.16.1
+#jenkins/inbound-agent:latest
+#maven:3.8.6-openjdk-11
+#maven:3.9.6-eclipse-temurin-17
 #csi-s3
 #cr.yandex/crp9ftr22d26age3hulg/yandex-cloud/csi-s3/csi-provisioner:v2.1.0
 #cr.yandex/crp9ftr22d26age3hulg/csi-s3:0.43.2
