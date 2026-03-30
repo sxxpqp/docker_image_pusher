@@ -3,6 +3,7 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #gcr.io/kaniko-project/executor:debug
+gitlab/gitlab-ce:18.4.0-ce
 #nginx:alpine
 ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.146.0
 #quay.io/jetstack/cert-manager-cainjector:v1.16.1
