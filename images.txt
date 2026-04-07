@@ -2,6 +2,7 @@
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
+
 #gcr.io/kaniko-project/executor:debug
 #gitlab/gitlab-ce:18.4.0-ce
 #nginx:alpine
@@ -38,6 +39,7 @@ ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.146.0
 #ccr.ccs.tencentyun.com/dhuar/eclipse-mosquitto:2
 #ccr.ccs.tencentyun.com/dhuar/teslamate:latest
 #dustynv/nano_llm:r36.4.0
+ghcr.io/microsoft/ai2bmd:latest
 #ghcr.io/czlonkowski/n8n-mcp
 #python:3.8.12-slim
 #--platform=linux/arm64  postgres:14-alpine3.21
