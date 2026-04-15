@@ -2,11 +2,12 @@
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
-gpustack/gpustack
+hiyouga/llamafactory
+#gpustack/gpustack
 #gcr.io/kaniko-project/executor:debug
 #gitlab/gitlab-ce:18.4.0-ce
 #nginx:alpine
-ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.146.0
+#ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.146.0
 #quay.io/jetstack/cert-manager-cainjector:v1.16.1
 #quay.io/jetstack/cert-manager-controller:v1.16.1
 #quay.io/jetstack/cert-manager-webhook:v1.16.1
