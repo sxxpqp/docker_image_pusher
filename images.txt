@@ -3,7 +3,7 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 #hiyouga/llamafactory
-ghcr.io/ggml-org/llama.cpp:server-cuda
+#ghcr.io/ggml-org/llama.cpp:server-cuda
 #gpustack/gpustack
 #gcr.io/kaniko-project/executor:debug
 #gitlab/gitlab-ce:18.4.0-ce
@@ -41,7 +41,7 @@ ghcr.io/ggml-org/llama.cpp:server-cuda
 #ccr.ccs.tencentyun.com/dhuar/eclipse-mosquitto:2
 #ccr.ccs.tencentyun.com/dhuar/teslamate:latest
 #dustynv/nano_llm:r36.4.0
-ghcr.io/microsoft/ai2bmd:latest
+#ghcr.io/microsoft/ai2bmd:latest
 #ghcr.io/czlonkowski/n8n-mcp
 #python:3.8.12-slim
 #--platform=linux/arm64  postgres:14-alpine3.21
