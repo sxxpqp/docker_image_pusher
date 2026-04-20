@@ -2,7 +2,7 @@
 #--platform=linux/amd64 registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:nightly
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
-ghcr.io/open-webui/open-webui:cuda
+#ghcr.io/open-webui/open-webui:cuda
 #hiyouga/llamafactory
 #ghcr.io/ggml-org/llama.cpp:server-cuda
 #gpustack/gpustack
