@@ -3,3 +3,4 @@
 #--platform=linux/arm64 stilleshan/frpc
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release
 nginx:latest
+docker.litellm.ai/berriai/litellm:main-stable
