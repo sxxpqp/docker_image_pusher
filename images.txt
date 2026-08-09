@@ -5,4 +5,5 @@
 #nginx:latest
 #docker.litellm.ai/berriai/litellm:main-stable
 #gpustack/runner:cuda12.9-vllm0.17.1
-gpustack/runner:cuda12.9-vllm0.22.1
+#gpustack/runner:cuda12.9-vllm0.22.1
+hiyouga/llamafactory:latest
