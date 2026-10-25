@@ -7,4 +7,5 @@
 #gpustack/runner:cuda12.9-vllm0.17.1
 #gpustack/runner:cuda12.9-vllm0.22.1
 #hiyouga/llamafactory:latest
-gcr.io/kaniko-project/warmer:latest
+#gcr.io/kaniko-project/warmer:latest
+--platform=linux/arm64 nvcr.io/nvidia/pytorch:26.07-py3
